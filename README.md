@@ -52,7 +52,7 @@ After installing Python 3, navigate to the same directory as main.py on your ter
 
 <a name='Requirements'></a>
 ### Requirements
-
+Other than having Python 3 installed on the machine, there are no other requirements to running this program.
 
 <a name='TheProgram'></a>
 ## The Program
