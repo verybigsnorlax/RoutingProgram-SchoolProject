@@ -29,11 +29,26 @@ _Keep in mind that the supervisor should be able to see, at assigned points, the
 
 <a name='BuiltWith'></a>
 ### Built With
-
+This program was built using Python with no additional libaries. The project environment includes Windows 10 using Sublime Text.
 
 <a name='Usage'></a>
 ## Usage
+In order to run the program, make sure you have Python version 3.9 or higher.
 
+For Windows:
+
+After installing Python 3 on your machine, navigate to the same directory as main.py on your CMD or Powershell. Then run the command: 
+`python main.py`
+
+For Linux:
+
+In your terminal run the command:
+`python3 -version`
+This is to make sure Python 3 is installed and to check the version of the Python 3 installed on the machine.
+If the terminal returns an error, make sure you install Python 3 on your machine.
+
+After installing Python 3, navigate to the same directory as main.py on your terminal. Then run the command:
+`python3 main.py`
 
 <a name='Requirements'></a>
 ### Requirements
